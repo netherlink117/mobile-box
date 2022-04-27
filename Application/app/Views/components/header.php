@@ -1,0 +1,1 @@
+<header class="h1 bg-primary text-white ps-3"><?= esc($title); ?></header>
